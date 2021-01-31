@@ -1,0 +1,58 @@
+#header{
+    color: white;
+    background-color: green;
+    height:7%;
+    text-align: center;
+    padding: 1%;
+
+}
+#_nav{
+    color: cadetblue;
+    background-color: lightblue;
+    text-align: center;
+    padding: 1%;
+}
+#_section{
+    color: white;
+    background-color:orangered;
+ 
+    height: 20%;
+    text-align: center;
+    padding: 1%;
+    
+   
+}
+i{
+    color: black;
+    
+    float: left;
+}
+
+#_artical{
+    color: white;
+    background-color: orange;
+    width:97%;
+    height:75%;
+    padding:1%;
+     
+   
+   
+   
+}
+i{
+}
+#_foter{
+    color: white;
+    background-color:red;
+    text-align: center;
+    padding: 1%;
+}
+div{
+background-color: silver;
+border:2px solid white;
+width:30%;
+margin:15%;
+ 
+
+
+}

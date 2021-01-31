@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="form.css">
+    </head>
+    <body>
+        <form>
+            <label for="name">Name</label>
+            <input type="text" id="name" required>
+            <br>
+
+            <label for="email">Email</label>
+            <input type="text" id="email"  required>
+            <p >email must match email@.com</p>
+            <br>
+            
+
+            <label for="pass">Paaword</label>
+            <input type="password" id="pass">
+            <p >password must be 8 char atlest</p>
+            <br>
+            
+
+            <label for="salary" >Salary</label>
+            <input type="range" id="salary" name="vol" oninput="res.value=salary.value+'$'" min="0" max="300" required >
+            <output name="res"></output>
+            
+            <br>
+
+            <label for="age">Age</label>
+            <input type="text" id="age">
+            <p >age must be above 21</p>
+            <br>
+
+            <input type="submit" value="Submit" id="submit">
+
+<script src="form.js"></script>
+            
+
+            </form>
+    </body>
+</html>

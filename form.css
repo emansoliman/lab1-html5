@@ -1,0 +1,48 @@
+input{
+border: 1px solid coral;
+border-radius:5px;
+margin: 2%;
+padding:0.5%;
+width:60%;
+
+}
+form{
+    margin: 7%;
+    margin-right:10%;
+    padding: 1%;
+}
+#email,#name,#salary{
+
+    margin-left:4%;
+}
+#pass{
+    margin-right:3%;
+
+}
+#age{
+    margin-left:5%;
+
+}
+#submit{
+
+  
+    margin-left:59%;
+    padding:1%;
+    width:10%;
+    background-color: green;
+    color: white;
+    border-radius:5px;
+}
+ 
+
+#salary{
+    color: orangered;
+   
+    
+}
+
+p{
+    margin-left:11%;
+    color: red;
+    display: none;
+}
