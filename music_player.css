@@ -41,4 +41,13 @@ i{
     color: red;
     float:right;
     margin-right:2%;
+    margin-top: 5%;
+    
 }
+p{
+
+    padding:4px;
+    margin: 2%;
+    display: inline-block;
+}
+ 
